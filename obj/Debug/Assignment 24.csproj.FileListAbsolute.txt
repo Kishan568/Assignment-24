@@ -1,0 +1,11 @@
+E:\Users\kishan\source\repos\Day 25\Assignment 24\bin\Debug\Assignment 24.exe.config
+E:\Users\kishan\source\repos\Day 25\Assignment 24\bin\Debug\Assignment 24.exe
+E:\Users\kishan\source\repos\Day 25\Assignment 24\bin\Debug\Assignment 24.pdb
+E:\Users\kishan\source\repos\Day 25\Assignment 24\bin\Debug\Assignment24.dll
+E:\Users\kishan\source\repos\Day 25\Assignment 24\bin\Debug\Assignment24.pdb
+E:\Users\kishan\source\repos\Day 25\Assignment 24\obj\Debug\Assignment 24.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\Day 25\Assignment 24\obj\Debug\Assignment 24.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\Day 25\Assignment 24\obj\Debug\Assignment 24.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\Day 25\Assignment 24\obj\Debug\Assignment 24.csproj.CopyComplete
+E:\Users\kishan\source\repos\Day 25\Assignment 24\obj\Debug\Assignment 24.exe
+E:\Users\kishan\source\repos\Day 25\Assignment 24\obj\Debug\Assignment 24.pdb
